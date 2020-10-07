@@ -10,9 +10,3 @@ The purpose of this project is to bring to light the factors that highly affect 
 The data we have will help us better understand the severity of accidents in various conditions as well as the weather conditions that contribute to the accidents.
 
 Government bodies would be very interested in the accurate predictions of the severity of an accident, to help them reduce the response times of medical staff as well as properly allocate the resources where needed to boost awareness of risk factors i.e. increase in signage, road repairs etc
-
-
-
-Governments should be highly interested in accurate predictions of the severity of an accident, in order to reduce the time of arrival and thus save a significant amount of people each year. Others interested could be private companies investing in technologies aiming to improve road safeness.
-
-This project consist of several parts divided in two different notebooks.
